@@ -145,6 +145,8 @@ Proper smoke positions are winning games. ONE person can literally make it easy 
 8. [Valak - крутой летун на контроллере от PS5 играющий на ПК](https://www.twitch.tv/rcr_valak)
 9. [ BF6 Jet Tutorial with a PERFECT Ending 😭✈️ | SilkOCE](https://www.youtube.com/shorts/jX5WXpbPQj8)
 10. [Tips for NEW Jet Players in Battlefield 6! | Silk](https://www.youtube.com/watch?v=s83P8gK2VpQ)
+11. [Маневр Йо-йо Battlefield 6. [Школа догфайта] | HYDROXupypr](https://www.youtube.com/watch?v=q-nlsBi8v9g)
+12. [](url)
 
 # Вертолёты
 1. [BATTLEFIELD 6 Как летать на вертолете? Гайд для начинающих пилотов | Splandor Game](https://www.youtube.com/watch?v=KnYsUYuMYIU)
