@@ -3,7 +3,7 @@
 
 # Устаревшие
 1. [DIESEL](https://web.archive.org/web/20220517065257/http://bf2.su/)
-2. [Old School](http://www.bf2-oss.com/)
+2. [Old School Server](https://web.archive.org/web/20121213174520/http://www.bf2-oss.com:80/)
     - Старый форум ребят - https://bf2-nns.clan.su/forum/4
 3.
 
