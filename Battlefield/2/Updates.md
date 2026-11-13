@@ -1,4 +1,5 @@
 # Патчи (не на глаза :) )
+
 1. 1.41 - https://www.moddb.com/downloads/battlefield-2-v141-patch
     - https://gamefiles.bf2hub.com/BF2_Patch_1_41_Full.exe
     - https://www.bf-games.net/downloads/952/battlefield-2-client-patch-141-full-install.html
@@ -16,4 +17,8 @@
     - https://thepiratebay0.org/torrent/8163761/Battlefield_2_v1.0_full_game
 
 # Обсуждения 1.50
-1. 
+
+TO-DO Суммаризировать, что с ним не так
+
+1. https://bf2-nns.clan.su/forum/4-441-1
+2. 
