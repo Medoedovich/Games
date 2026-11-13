@@ -25,7 +25,11 @@
     - [4 мая 2006](https://web.archive.org/web/20060504222055/http://www.battlefield2.ru/forum/index.php?act=home)
     - [31 мая 2006](https://web.archive.org/web/20060531225359/http://battlefield2.ru/)
     - [](url)
-5. 
+5. Battlefield Club
+    - [Форум](https://bf-club.ru/)
+    - [VK](https://vk.ru/bf4_club)
+    - [Создатель](https://vk.ru/sashok76)
+6. [](url)
 
 
 ## **TODO** Рассортировать
