@@ -30,15 +30,21 @@
 5. 
 
 ## Оружие
+
 1. [Battlefield 2 Гайд (M16A2) | Emerson](https://www.youtube.com/watch?v=ZneNFypcSX0)
    - На канале так же есть и другие руководства
 2. 
 
 ## Геймпады
+
 1. [Battlefield 2 with a Logitech USB controller | Heinzik Guther](https://www.youtube.com/watch?v=zzdcxo9Ogi0)
 2. [Playing Battlefield 2 with a controller | BigMobe](https://www.youtube.com/watch?v=i3XUWTuE7Mg)
 3. [Как подключить джойстик в Battlefield 2 | D.D.V](https://www.youtube.com/watch?v=sIQtIxehr9Q)
 4. 
+
+## Общее
+
+1.http://bf2.tgamer.ru/
 
 
 ## Руководство по установке
