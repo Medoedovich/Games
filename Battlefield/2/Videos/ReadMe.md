@@ -40,6 +40,15 @@
 7. [](url)
 
 # A Machinima movie
+
 1. [Battlefield 2 :Behind Enemy Lines | KorsaSS](https://www.youtube.com/watch?v=Hb4Fh0I2iWc)
 2. [Valhalla | SkyDistress](https://www.youtube.com/watch?v=a_GnJ76Fpwk)
 3. [](https://www.youtube.com/watch?v=2t7axZ0JhWI)
+4. 
+
+
+# Трюки
+
+1. [Battlefield 2 - Jet Stunts | NuKe](https://www.youtube.com/watch?v=5bDqsRYIWec)
+2. [XpycT/MiHyCyET | Евгений К](https://www.youtube.com/watch?v=I-UTUgPjcd4)
+3. 
