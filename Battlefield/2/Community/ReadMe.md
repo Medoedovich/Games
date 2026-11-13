@@ -4,12 +4,14 @@
 1. T-Gamer
     - [Сайт]()
     - [Форум](https://forum.tgamer.ru/)
-    - [Telegram](https://t.me/playbf2ru)
+    - Telegram
+        - [Новости](https://t.me/playbf2ru)
+        - [Чат](https://telegram.me/tgamer_bf2)
+        - [Real War - ](https://t.me/bf2RW)
     - [Discord](https://discord.com/invite/Tjt3sK8)
+        - [Real War](https://discord.com/invite/aAaXf9G)
     - [VK](https://vk.ru/playbf2)
-        - [Real War - VK](https://vk.ru/t_gamer_real_war)
-        - [Real War - Telegram](https://t.me/bf2RW)
-        - [Real War - Discord](https://discord.com/invite/aAaXf9G)
+        - [Real War](https://vk.ru/t_gamer_real_war)
 2. 
 
 ## Устаревшие
