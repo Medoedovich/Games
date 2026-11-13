@@ -18,7 +18,8 @@
 1. По ветру
     - [Сайт](POVET.RU)
     - [Форум](http://www.povet.ru/forum/viewtopic.php?t=3092)
-    - 
+    - [Real War](https://web.archive.org/web/20100107041137/http://forum.povet.ru/index.php/forum/13-battlefield-2-real-war)
+        - [2 декабря 2009](https://web.archive.org/web/20091202080130/http://bf.povet.ru/)
 2. 3ebra
 3. [Old School Server](https://web.archive.org/web/20121213174520/http://www.bf2-oss.com:80/)
     - Старый форум ребят - https://bf2-nns.clan.su/forum/4
