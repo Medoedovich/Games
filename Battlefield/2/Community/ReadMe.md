@@ -21,8 +21,10 @@
     - [Facebook - Тайские фанаты](https://www.facebook.com/bf2thoss)
 3. [DIESEL](https://web.archive.org/web/20220517065257/http://bf2.su/)
 4. Battlefield.ru -> TotalBF
-    - https://web.archive.org/web/20060531225359/http://battlefield2.ru/
-    - 
+    - [16 июля 2005](https://web.archive.org/web/20050716040203/http://www.battlefield2.ru/)
+    - [4 мая 2006](https://web.archive.org/web/20060504222055/http://www.battlefield2.ru/forum/index.php?act=home)
+    - [31 мая 2006](https://web.archive.org/web/20060531225359/http://battlefield2.ru/)
+    - [](url)
 5. 
 
 
