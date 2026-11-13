@@ -2,12 +2,12 @@
 
 ## Актуальные
 1. T-Gamer
-    - [Сайт]()
+    - [Сайт](https://playbf2.tilda.ws/)
     - [Форум](https://forum.tgamer.ru/)
     - Telegram
         - [Новости](https://t.me/playbf2ru)
         - [Чат](https://telegram.me/tgamer_bf2)
-        - [Real War - ](https://t.me/bf2RW)
+        - [Real War](https://t.me/bf2RW)
     - [Discord](https://discord.com/invite/Tjt3sK8)
         - [Real War](https://discord.com/invite/aAaXf9G)
     - [VK](https://vk.ru/playbf2)
