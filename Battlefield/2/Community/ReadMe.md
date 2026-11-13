@@ -9,6 +9,7 @@
     - [VK](https://vk.ru/playbf2)
         - [Real War - VK](https://vk.ru/t_gamer_real_war)
         - [Real War - Telegram](https://t.me/bf2RW)
+        - [Real War - Discord](https://discord.com/invite/aAaXf9G)
 2. 
 
 ## Устаревшие
