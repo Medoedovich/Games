@@ -54,3 +54,13 @@
 1. [Battlefield 2 - Jet Stunts | NuKe](https://www.youtube.com/watch?v=5bDqsRYIWec)
 2. [XpycT/MiHyCyET | Евгений К](https://www.youtube.com/watch?v=I-UTUgPjcd4)
 3. 
+
+
+
+# Вырезанный контент
+1. [Wheelbarrow - cut vehicle from Battlefield 2 | Zhenya](https://www.youtube.com/watch?v=9zRAzSUVbC0)
+2. 
+
+# Трейлеры сообщества
+1. [BF2 Black Hawk Down trailer | Kyrmy4](https://www.youtube.com/watch?v=K90fjSVPlFE)
+
