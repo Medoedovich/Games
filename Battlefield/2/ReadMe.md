@@ -2,6 +2,7 @@
 
 1. [Сообщества](Community/ReadMe.md)
 2. [Моддинг](Modding/ReadMe.md)
+    - [Локализация](Modding/Localization.md)
 3. Руководства
     - [Стрельба]()
     - Воздушная техника
@@ -12,8 +13,14 @@
     - [Наземная техника]()
     - [Командование](Tutorials/commander.md)
     - [Лайфхаки](Tutorials/Lifehacks.md)
-5. 
-6. [Обновления](Updates.md)
-7. Моддинг
-    - [Локализация](Modding/Localization.md)
-8. [](url)
+4. [Видео](Videos/ReadMe.md)
+5. Остальное
+    - [Обновления](Updates.md)
+    - DLC
+        - [Special Forces](dlc/Special-Forces.md)
+        - Armored Fury
+        - Ещё какое-то
+6. Моды
+    - [Real War](mods/Real%20War/ReadMe.md)
+    - [Project Reality](project-reality/ReadMe.md)
+7. [](url)
