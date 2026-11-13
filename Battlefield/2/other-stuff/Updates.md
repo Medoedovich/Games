@@ -21,4 +21,5 @@
 TO-DO Суммаризировать, что с ним не так
 
 1. https://bf2-nns.clan.su/forum/4-441-1
-2. 
+2. https://yes.ruhelp.com/viewtopic.php?id=685
+3. 
