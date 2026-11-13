@@ -24,9 +24,25 @@
 6. Battlefield 2 Co-Op FEAR Edition - https://www.nexusmods.com/battlefield2/mods/1132
 7. [BF2 1.5 AI Commander Fix + Weapons Unlock](https://www.moddb.com/games/battlefield-2/downloads/bf2-15-ai-commander-fix-weapons-unlock)
 
-
-
-
 ## Синглплеер
 1. [Battlefield 2: How to get 64 player bots! | MrWerrrrt](https://www.youtube.com/watch?v=liBwInkkbRE)
 2. 
+
+## Неразобранное
+
+0. Руководство по модификации - https://steamcommunity.com/sharedfiles/filedetails/?id=1548099308
+1. https://www.moddb.com/games/battlefield-2/tutorials/how-to-edit-files-while-playing
+2. https://www.moddb.com/games/battlefield-2/tutorials/how-to-create-and-edit-a-navmesh
+3. https://www.moddb.com/games/battlefield-2/tutorials/how-weapons-work-basic-tutorial
+4. https://vk.com/bf2modding
+5. https://github.com/marekzajac97/bf2-blender
+6. https://github.com/rpoxo?tab=repositories
+    - https://github.com/rpoxo/objmodv2
+7.  https://archive.org/details/sample-bf2-kit-team
+8.  https://archive.org/details/battlefield-2-complete-tools-pack
+9. Инструменты для разработчика - https://www.bf-games.net/downloads/category/361/modding-tools.html
+10. Navmesh - https://vk.com/topic-20139059_27052035
+11. Руководство - https://vk.com/@-161984294-sekrety-moddinga-battlefield-2?ref=group_block
+12. https://www.youtube.com/watch?v=VIVhDU65GBE
+13. Как работает Python - https://bf2tech.uturista.pt/index.php/Big_Picture
+14. 
