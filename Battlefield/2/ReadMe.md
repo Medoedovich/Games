@@ -23,4 +23,11 @@
 6. Моды
     - [Real War](mods/Real%20War/ReadMe.md)
     - [Project Reality](project-reality/ReadMe.md)
-7. [](url)
+7. Остальное
+    - [Идеи](other-stuff/Ideas.md)
+    - [Параметры для запуска exe](other-stuff/Exe-params.md)
+    - [История версий](other-stuff/Versions.md)
+        - [Сами обновления](other-stuff/Updates.md)
+8. [Сервер](server/linux)
+9. [](url)
+10. 
