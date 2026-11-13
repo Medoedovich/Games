@@ -64,3 +64,7 @@
 # Трейлеры сообщества
 1. [BF2 Black Hawk Down trailer | Kyrmy4](https://www.youtube.com/watch?v=K90fjSVPlFE)
 
+
+# BF 2 на консоли - Modern Combat
+[Мультиплеер на PlayStation 2 |Оживший онлайн в BATTLEFIELD 2 Modern Combat | LEVEL ONE](https://www.youtube.com/watch?v=Bdg0JQxKnvM)
+
