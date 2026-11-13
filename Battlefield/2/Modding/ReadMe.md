@@ -16,3 +16,8 @@
 4. [Battlefield 2 sound settings: mute commander 🔇 + radio voice spam | [revive project]](https://www.youtube.com/watch?v=8BUYLiNpKkY)
 5. [Battlefield 2: Ultimate | C11 Twisty](https://www.youtube.com/watch?v=UbGGfO1wbnU)
 6. [](url)
+
+
+## Синглплеер
+1. [Battlefield 2: How to get 64 player bots! | MrWerrrrt](https://www.youtube.com/watch?v=liBwInkkbRE)
+2. 
