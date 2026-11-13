@@ -40,3 +40,9 @@
 3. [Как подключить джойстик в Battlefield 2 | D.D.V](https://www.youtube.com/watch?v=sIQtIxehr9Q)
 4. 
 
+
+## Руководство по установке
+    - от uPlay - https://dtf.ru/u/887043-uplay/2219840-battlefield-2-v-2000-msk-261023
+    - https://www.youtube.com/watch?v=20riC-ouDis
+    - https://playbf2.tilda.ws/
+        - https://drive.google.com/drive/folders/1Ia3HpS0mhZMGWSnx9EIJ-t-ljCkpCEE_
